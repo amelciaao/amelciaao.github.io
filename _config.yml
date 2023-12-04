@@ -25,7 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   
   Lubię czytać naukowe książki. Uważam, że nauka jest fascynująca i piękna, a także niezbędna do zrozumienia świata i siebie. Zawsze chcę się uczyć czegoś nowego i poszerzać swoją wiedzę.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://amelciaao.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://amelciaao.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  amelciaao
 
