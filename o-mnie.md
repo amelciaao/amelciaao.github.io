@@ -20,6 +20,10 @@ Moim marzeniem jest coś pozostawić po sobie i zmienić świat na lepsze. Anga�
 
 Ukończyłam studia na kierunku Archiwistyka, zarządzanie dokumentacją i infobrokerstwo. Doświadczenie zawodowe zdobywałam podczas licznych praktyk zawodowych oraz podczas stażu.
 
+**Obecnie jestem wolontariuszką w Siemacha Spot Mogilska (wsparcie edukacyjne).**
+
+[Linkedin](https://www.linkedin.com/in/amelia-kusiak/)
+
 ### Staż:
 
 - Social Media Menager - Gminne Centrum Kultury i Bibliotek w Iwanowicach
