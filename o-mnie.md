@@ -15,16 +15,23 @@ Słucham też wykładów, które dotyczą psychologii, psychiatrii, technologii 
 Uwielbiam słuchać muzyki organowej, zwłaszcza z okresu symfonizmu organowego. Muzyka ta jest dla mnie niezwykle piękna i poruszająca, a także bogata i złożona. Podziwiam organy Aristide Cavaille-Coll, który był jednym z najbardziej wpływowych i innowacyjnych budowniczych organów w historii. Jego instrumenty charakteryzowały się bogactwem brzmienia, różnorodnością barw i nowoczesnymi rozwiązaniami technicznymi.
 
 Moim marzeniem jest coś pozostawić po sobie i zmienić świat na lepsze. Angażuje się w działalność społeczną, naukową i artystyczną, która pomoże innym ludziom i poprawi jakość życia. Mam wiele pomysłów i planów, które chcę zrealizować. Zaczęłam też pisać książkę autobiograficzną, która będzie opowiadać o mojej historii i walce o prawo do bycia sobą. Chcę też skomponować utwór muzyczny, który będzie wyrażał moje emocje i przesłanie tak jak to robił Beethoven.
+
 ## Doświadczenie zawodowe
-Ukończyłam studia na kierunku Archiwistyka, zarządzanie dokumentacją i infobrokerstwo. Doświadczenie zawodowe zdobywałam podczas licznych praktyk zawodowych oraz podczas stażu. 
+
+Ukończyłam studia na kierunku Archiwistyka, zarządzanie dokumentacją i infobrokerstwo. Doświadczenie zawodowe zdobywałam podczas licznych praktyk zawodowych oraz podczas stażu.
+
 ### Staż:
+
 - Social Media Menager - Gminne Centrum Kultury i Bibliotek w Iwanowicach
+
 ### Praktyki zawodowe:
 
 - Urząd Gminy Iwanowice (zarządzanie dokumentacją, archiwizacja dokumentacji), 
 - Wydawnictwo i Archiwum Nasza Przeszłość (ewidencjinowanie i archiwizacja materiałów historycznych). 
 - Archiwum Dominikanów (archiwizacja materiałów historycznych, digitalizacja zasobu archiwalnego).
+
 ## Inna działalność
+
 - Adaptacja materiałów edukacyjnych dla potrzeb osób z niepełnosprawnością wzroku,
 - Współorganizator konferencji naukowych z cyklu "Student z niepełnosprawnością":
   - Jakość życia osób w niepełnosprawności. Przeszłość, teraźniejszość, przyszłość, 
