@@ -1,10 +1,10 @@
 ---
 title: Posty
 layout: page
-posts: {{ page.post }} 
+#posts: {{ page.post }} 
 ---
 
-#Posty
+**Oto lista postów**
 
 {% for post in posts %}
   <div class="post">
