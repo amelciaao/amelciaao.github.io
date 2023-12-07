@@ -1,7 +1,7 @@
 ---
 title: Posty
 layout: page
-posts: {{ page.post }} ¡
+posts: {{ page.post }} 
 ---
 
 #Posty
