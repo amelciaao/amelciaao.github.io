@@ -1,4 +1,13 @@
+---
+title: Własne odczucia w względem konstruktywnej krytyki bliskiej osoby
+layout: post
+date: 2023-12-16 23:30:00
+permalink: blog/wlasne-odczucia-w-wzgledem-konstruktywnej-krytyki-bliskiej-osoby
+---
+
 Nie łatwo jest konstruktywnie skrytykować bliską osobę z wybujałym ego. Pamiętam zachowanie tej osoby względem innej. Do tej pory siedzi mocno w niej to wydarzenie. Pytanie, *Czy tak będzie ze mna?*
+
+---
 
 **Ze względu na dobro osoby, zastosowana została anominizacja!** 
 
@@ -17,7 +26,3 @@ Po konferencji zostało nam zaproponowane współ tworzenie dokumentu o którym 
 Mam nadzieję, że zostanie zastosowany profesjonalizm. Jestem gotowa na dyskusje i wyjaśnienie sobie to co leży każdej osobie na sercu. Warunek jest jeden. Dyskusja ma się odbyć nie w ramach konsultacji lekarskiej. Gabinet lekarski to nie miejsce na dyskusje na taki temat.
 
 Podpisano 16 grudnia 2023 roku.
-
-
-
-
