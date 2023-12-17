@@ -1,6 +1,7 @@
 ---
 title: Umysł Ponad Nastrojem. Zmień Nastrój Poprzez Zmianę Sposobu Myślenia
 layout: post
+exclude: true
 ---
 
 ## Dane wydawnicze
