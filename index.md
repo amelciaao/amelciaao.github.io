@@ -2,13 +2,13 @@
 layout: home
 ---
 
-Członkini (Tranzycja.pl)[https://tranzycja.pl)[
+Członkini (Tranzycja.pl)[https://tranzycja.pl)
 
-e-mail: (amelia.konstancja.kusiak@gmail.com)[mailto:\\amelia.konstancja.kusiak@gmail.com)[
+e-mail: (amelia.konstancja.kusiak@gmail.com)[mailto:\\amelia.konstancja.kusiak@gmail.com)
 
 Jestem transpłciową aktywistką, która wierzy że prawda jest jedną z najważniejszych wartości. Dążę do depatologizacji transpłciowości i poprawy sytuacji osób transpłciowych w Polsce. Piszę o swoich doświadczeniach z tranzycją medyczną, społeczną i prawną. Lubię czytać ksiązki naukowe. Uważam, że nauka jest fascynująca i piękna, a także niezbędna do zrozumienia świata i siebie. Zawsze chcę się uczyć czegoś nowego i poszerzać swoją wiedzę.
 
-## Gdzie mnie znajdziesz
+## Publikacje
 
 - (ReaserchGate)[https://www.researchgate.net/profile/Amelia-Kusiak-2)
 
