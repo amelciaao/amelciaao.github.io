@@ -3,10 +3,6 @@ title: O mnie
 layout: page
 ---
 
-# Amelia Kusiak  
-**Założycielka Self-Educational Scientific Society**  
-**Członkini Tranzycja.pl**
-
 Jestem transpłciową aktywistką, która wierzy, że prawda jest jedną z najwyższych wartości. Dążę do depatologizacji transpłciowości i poprawy sytuacji osób transpłciowych w Polsce. Piszę o swoich doświadczeniach z tranzycją medyczną, społeczną i prawną. 
 Lubię czytać naukowe książki. Uważam, że nauka jest fascynująca i piękna, a także niezbędna do zrozumienia świata i siebie. Zawsze chcę się uczyć czegoś nowego i poszerzać swoją wiedzę.
 
