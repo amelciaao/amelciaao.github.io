@@ -3,6 +3,7 @@ layout: post
 title: Tranzycja medyczna jako interwencja ratująca życie lub zdrowie
 date: 2023-12-04 22:40:34 +0100
 category: aktywizm
+excerpt_separator: <!--more-->
 ---
 
 Wydawać by się mogło, że umieszczanie zanonimizowanej historii leczenia jest ujawnieniem pewnej intymnej sfery życia. Transparentność taka niekoniecznie jest korzystna w budowaniu własnej marki osobistej. Zamiast pokazywać mocne strony, ukazuje trudną historię. Dla niektórych może to być ukazanie słabości, jednak jest to pokazanie siły w walce o siebie. Ten wpis ma również charakter aktywistyczny. Pokazuje, że tranzycja jest lekiem, a nie jakąś fanaberią, w dyskursie medycznym i psychologicznym.
