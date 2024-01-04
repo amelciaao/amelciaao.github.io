@@ -5,7 +5,7 @@ categories: muzyka, kontrapunkt
 ---
 Nauka kontrapunktu bez instrumentu to trudna sztuka wymagająca pokory. W dzisiejszych czasach mamy dostęp do papieru, nie jak w dawnych wiekach. To dlaczego polecam uczenia się kontrapunktu wraz z instrumentem. O tym dowiesz się z poniższego postu.
 
-<!-- more-->
+<!--more-->
 
 Kontrapunkt w porównaniu do harmonii ma bardziej skomplikowane zasady. Łatwo popełnić równolegle kwarty czy kwinty. Te drugie to jeden z największych błędów jakie można popełnić. Puki pisze się się w gatunku I - nuta przeciw nucie, tych zasad jest stosunkowo mało. Ma się do dyspozycji dwie postacie akordu: postać zasadnicza oraz I przewrót (inaczej sekstowy). I nawet w najprostszym gatunku na samym początku nauki błędy są nieuniknione. W takim razie jak może pomóc instrument (najlepiej klawiszowy) w nauce kontrapunktu? Grając poszczególne wybrane dwa głosy widzimy interwały oraz je słyszymy. Nawiązując do wstępu. Kiedyś dostęp do papieru był ograniczony. Pisząc konstrukcje polifoniczną trzeba było nauczyć się na pamięć melodii cantus firmus wraz z całą konstrukcją. Nie wątpliwie miało to zalety. Ćwiczyło się kontrapunkt praktyczny, co było celem nauki.
 

@@ -1,8 +1,13 @@
 ---
 title: Umysł Ponad Nastrojem. Zmień Nastrój Poprzez Zmianę Sposobu Myślenia
 layout: post
-permalink: /biblioteka/umysl-ponad-nastroj-zmien-nastroj-poprzez-zmiane-myslenia
+excerpt_separator: <!--more-->
 ---
+<p style="display:none;">
+Ta książka zmienia życie. Dzięki niej zrozumiesz swoje problemy, nauczysz się je rozwiązywać, a tym samym doświadczać radości i bardziej cieszyć się życiem.
+</p>
+
+<!--more-->
 
 ## Dane wydawnicze
 
