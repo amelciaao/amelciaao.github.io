@@ -2,7 +2,6 @@
 title: Własne odczucia w względem konstruktywnej krytyki bliskiej osoby
 layout: post
 date: 2023-12-16 23:30:00
-permalink: blog/wlasne-odczucia-w-wzgledem-konstruktywnej-krytyki-bliskiej-osoby
 ---
 
 Nie łatwo jest konstruktywnie skrytykować bliską osobę z wybujałym ego. Pamiętam zachowanie tej osoby względem innej. Do tej pory siedzi mocno w niej to wydarzenie. Pytanie, *Czy tak będzie ze mna?*
