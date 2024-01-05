@@ -2,7 +2,7 @@
 layout: home
 ---
 
-![](/assets/IMG20231114121524.jpg)
+![](/assets/index/Amelia.jpg)
 
 Jestem transpłciową aktywistką, która wierzy że prawda jest jedną z najważniejszych wartości. Dążę do depatologizacji transpłciowości i poprawy sytuacji osób transpłciowych w Polsce. Piszę o swoich doświadczeniach z tranzycją medyczną, społeczną i prawną. Lubię czytać ksiązki naukowe. Uważam, że nauka jest fascynująca i piękna, a także niezbędna do zrozumienia świata i siebie.
 
