@@ -9,7 +9,7 @@ layout: page
       <a href="{{ post.url }}">{{ post.title }}</a>
       {{ post.excerpt }}
       {{ post.author}}
-      <a style="display:block;padding:0.5rem;background-color:#edbee9;border-radius:0.5rem">Czytaj dalej</a>
+      <a style="display:block;padding:0.5rem;background-color:#edbee9;border-radius:0.5rem" href="{{ post.url }}">Czytaj dalej</a>
     </div>
   {% endfor %}
 </div>
