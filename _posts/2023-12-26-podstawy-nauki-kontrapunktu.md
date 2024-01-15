@@ -2,6 +2,7 @@
 layout: post
 date: 2023-12-26 14:00
 categories: muzyka, kontrapunkt
+excerpt_separator: <!--more-->
 ---
 Nauka kontrapunktu bez instrumentu to trudna sztuka wymagająca pokory. W dzisiejszych czasach mamy dostęp do papieru, nie jak w dawnych wiekach. To dlaczego polecam uczenia się kontrapunktu wraz z instrumentem. O tym dowiesz się z poniższego postu.
 
