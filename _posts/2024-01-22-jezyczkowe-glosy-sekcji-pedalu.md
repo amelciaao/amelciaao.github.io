@@ -1,7 +1,7 @@
 ---
 title: Języczkowe głosy sekcji pedału
-categories: organmistrzostwo, głosy języczkowe
-tag: głosy językowe
+categories: ['organmistrzostwo', 'głosy języczkowe']
+tag: 'głosy językowe'
 excerpt_separator: <!--more-->
 ---
 
